@@ -150,12 +150,3 @@ plt.plot(range(1,15), df_elbow)
 
 # In[ ]:
 
-
-import iris dataset
-datframe
-preprocessing
-splitting
-adaboost model 
-from sklearn.ensemble import AdaBoostClassifier
-Adab= AdaBoost(n_estimator=50)
-
